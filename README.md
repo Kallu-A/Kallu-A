@@ -6,7 +6,7 @@ I am a French 🇫🇷 student who learns to program and love it.
 - 🔭 I am currently learning and working on different projects
 - 📚 2nd-year student in IT.
 
-#### **Contact me** 
+#### **About me** 
 
 <lucas.aries@protonmail.com>  
 [linkedin](https://www.linkedin.com/in/lucas-aries-85a215209/)  
