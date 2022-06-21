@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kallu-A&style=flat-square&color=blue" alt="number of visit"></p>
 
-</p>
+
 
 
 I am a French 🇫🇷 student who learns to program and love it.
@@ -38,3 +38,4 @@ I am a French 🇫🇷 student who learns to program and love it.
 ```rust
 println!("Hello World!");
 ```
+</p>
