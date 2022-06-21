@@ -22,9 +22,9 @@ I am a French 🇫🇷 student who learns to program and love it.
 <br>
 
 ### :fire: My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kallu-A&layout=compact&theme=monokai&count_private=true&langs_count=10)(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kallu-A&layout=compact&theme=monokai&count_private=true&langs_count=10)(https://github.com/anuraghazra/github-readme-stats)]
 
-![Stat](https://github-readme-stats.vercel.app/api?username=Kallu-A&show_icons=true&theme=monokai&count_private=true)(https://github.com/anuraghazra/github-readme-stats)
+[![Stat](https://github-readme-stats.vercel.app/api?username=Kallu-A&show_icons=true&theme=monokai&count_private=true)(https://github.com/anuraghazra/github-readme-stats)]
 
 ```rust
 println!("Hello World!");
