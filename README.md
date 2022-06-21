@@ -19,10 +19,12 @@ I am a French 🇫🇷 student who learns to program and love it.
     <img src="https://img.shields.io/badge/StackOverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=yellow" alt="Stack Overflow Badge"/>
   </a>
 </div>
+<br>
 
 
-```
+```rust
 println!("Hello World!");
+```
+```java
 System.out.println("Hello World!"); 
-Console.log("Hello World!");
 ```
