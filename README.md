@@ -4,7 +4,7 @@
 
 
 
-
+<p>
 I am a French 🇫🇷 student who learns to program and love it.
 
 ✨ My main languages are: **Rust, Java, Kotlin** ✨
@@ -34,7 +34,7 @@ I am a French 🇫🇷 student who learns to program and love it.
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kallu-A&theme=dark&background=00000000)
 
-
+</p>
 ```rust
 println!("Hello World!");
 ```
