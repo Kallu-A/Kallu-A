@@ -1,7 +1,7 @@
 # **Hello there** ![number-vistor](https://komarev.com/ghpvc/?username=Kallu-A&style=flat-square&color=blue)
 I am a French 🇫🇷 student who learns to program and love it.
 
-✨ My main languages are: **Rust, Java, Kotlin** ✨
+✨ My main languages are: **Rust, Java** ✨
 
 - 🔭 I am currently learning and working on different projects
 - 📚 2nd-year student in IT.
