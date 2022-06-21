@@ -20,8 +20,6 @@ I am a French 🇫🇷 student who learns to program and love it.
   </a>
 </div>
 
-<lucas.aries@protonmail.com>  
-[linkedin](https://www.linkedin.com/in/lucas-aries-85a215209/)  
 
 ---
 ```rust
