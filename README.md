@@ -24,7 +24,7 @@ I am a French 🇫🇷 student who learns to program and love it.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=00000000)](https://git.io/streak-stats)
 
 ```rust
 println!("Hello World!");
