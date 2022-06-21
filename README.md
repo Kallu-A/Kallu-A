@@ -21,10 +21,11 @@ I am a French 🇫🇷 student who learns to program and love it.
 </div>
 <br>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ```rust
 println!("Hello World!");
-```
-```java
-System.out.println("Hello World!"); 
 ```
