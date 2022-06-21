@@ -1,4 +1,8 @@
-# **Hello there** ![counter-visit](https://komarev.com/ghpvc/?username=Kallu-A)
+# **Hello there** 
+<p align="center">
+  ![counter-visit](https://komarev.com/ghpvc/?username=Kallu-A)
+</p>
+
 
 I am a French 🇫🇷 student who learns to program and love it.
 
