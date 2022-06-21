@@ -1,6 +1,7 @@
 # **Hello there** 
 <p align="center">
-  ![counter-visit](https://komarev.com/ghpvc/?username=Kallu-A)
+  <img src="https://komarev.com/ghpvc/?username=Kallu-A&style=flat-square&color=blue" alt="number of visit"></p>
+
 </p>
 
 
