@@ -1,10 +1,4 @@
-# **Hello there** 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kallu-A&style=flat-square&color=blue" alt="number of visit"></p>
-
-
-
-<p>
+# **Hello there** ![number-vistor](https://komarev.com/ghpvc/?username=Kallu-A&style=flat-square&color=blue)
 I am a French 🇫🇷 student who learns to program and love it.
 
 ✨ My main languages are: **Rust, Java, Kotlin** ✨
@@ -34,8 +28,6 @@ I am a French 🇫🇷 student who learns to program and love it.
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kallu-A&theme=dark&background=00000000)
 
-</p>
 ```rust
 println!("Hello World!");
 ```
-</p>
