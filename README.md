@@ -21,9 +21,7 @@ I am a French 🇫🇷 student who learns to program and love it.
 </div>
 <br>
 
----
-
-### :fire: My Stats :
+### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kallu-A&theme=dark&background=00000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kallu-A&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
