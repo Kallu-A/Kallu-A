@@ -21,7 +21,8 @@ I am a French 🇫🇷 student who learns to program and love it.
 </div>
 
 
----
-```rust
-println!("hello world!");
+```
+println!("Hello World!");
+System.out.println("Hello World!"); 
+Console.log("Hello World!");
 ```
