@@ -23,11 +23,13 @@ I am a French 🇫🇷 student who learns to program and love it.
 <br>
 
 ### :fire: My Stats
-[![Stat](https://github-readme-stats.vercel.app/api?username=Kallu-A&show_icons=true&theme=monokai&count_private=true)
+![Stat](https://github-readme-stats.vercel.app/api?username=Kallu-A&show_icons=true&theme=monokai&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kallu-A&layout=compact&theme=monokai&count_private=true&langs_count=10)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kallu-A&show_icons=true&theme=monokai&count_private=true"/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kallu-A&theme=dark&background=00000000)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kallu-A&layout=compact&theme=monokai&count_private=true&langs_count=10)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kallu-A&theme=dark&background=00000000)
 
 
 ```rust
