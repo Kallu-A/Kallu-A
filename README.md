@@ -4,7 +4,6 @@ I am a French 🇫🇷 student who learns to program and love it.
 ✨ My main languages are: **Rust, Java** ✨
 
 - 🔭 I am currently learning and working on different projects
-- 📚 3rd-year student in IT.
 
 #### **About me** 
 
