@@ -1,4 +1,4 @@
-# **Hello there** ![number-vistor](https://komarev.com/ghpvc/?username=Kallu-A&style=flat-square&color=blue)
+# **Hello there**
 I am a French 🇫🇷 student who learns to program and love it.
 
 ✨ My main languages are: **Rust, Java** ✨
