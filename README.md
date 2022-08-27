@@ -14,9 +14,6 @@ I am a French 🇫🇷 student who learns to program and love it.
   <a href="https://www.codewars.com/users/Kallu-A">
     <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/19345849/kallu">
-    <img src="https://img.shields.io/badge/StackOverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=yellow" alt="Stack Overflow Badge"/>
-  </a>
 </div>
 <br>
 
