@@ -9,6 +9,6 @@ I am a French 🇫🇷 student who learns to program and love it.
 ```rust
 System.out.println("Hello, World!");
 print("Hello, World!")
-printf("Hello, World!\n");
 println!("Hello, World!");
+console.log("Hello, World!");
 ```
