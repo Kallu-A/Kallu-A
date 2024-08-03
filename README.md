@@ -27,7 +27,7 @@ Here are some highlights of my work:
 
 ## Others
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kallu-A&layout=compact&theme=monokai&count_private=true&langs_count=10)
+![Top Languages](https://github-readme-stats-zeta-steel-10.vercel.app/api/top-langs/?username=Kallu-A&layout=compact&theme=monokai&count_private=true&langs_count=10)
 
 
 ```java
