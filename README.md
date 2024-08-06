@@ -11,9 +11,8 @@ Feel free to explore and see what I've been up to.
 
 ## About Me
 
-- 🔭 I am currently learning and working on various projects to enhance my skills and knowledge.
-- 🌱 I’m always looking to improve my coding skills and learn new technologies.
-- 🤝 I’m open to collaborating on interesting projects and innovative ideas.
+- 🔭 Currently learning and working on various projects.
+- 🤝 Open to collaborating on interesting projects.
 
 ## Projects
 
