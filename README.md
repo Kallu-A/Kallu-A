@@ -3,16 +3,8 @@
 Welcome to my GitHub profile! Here, you'll find a collection of projects that I've worked on either to learn new skills or to bring an idea to life. 
 Feel free to explore and see what I've been up to.
 
-<p style="display: flex; align-items: center; gap: 8px;">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord Badge" style="vertical-align: middle;">
-  <span style="vertical-align: middle;">Kallu#5356</span>
-</p>
 
-
-## About Me
-
-- 🔭 Currently learning and working on various projects.
-- 🤝 Open to collaborating on interesting projects.
+wrapping up a double degree from 🇨🇦 🇫🇷
 
 ## Projects
 
