@@ -4,8 +4,6 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that I'
 Feel free to explore and see what I've been up to.
 
 
-wrapping up a double degree from 🇨🇦 🇫🇷
-
 ## Projects
 
 Here are some highlights of my work:
