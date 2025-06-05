@@ -21,9 +21,3 @@ Here are some highlights of my work:
 ## Others
 
 ![Top Languages](https://github-readme-stats-zeta-steel-10.vercel.app/api/top-langs/?username=Kallu-A&layout=compact&theme=monokai&count_private=true&langs_count=10)
-
-
-```java
-System.out.println("Hello, World!");
-```
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](#) [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
