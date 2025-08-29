@@ -15,9 +15,3 @@ Here are some highlights of my work:
 - **[To Do Reminder](https://github.com/Kallu-A/to_do_reminder)**: An example of how to implement a web server with Rust and Docker. It includes features such as SMTP, JWT, and more. <br>[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 - **[Pokemon](https://github.com/terrytmps/Pokemon)**: A Pokemon like game (showdown) with some OOP principle and design pattern (and nice front) <br>[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000)](#)
-
-
-
-## Others
-
-![Top Languages](https://github-readme-stats-zeta-steel-10.vercel.app/api/top-langs/?username=Kallu-A&layout=compact&theme=monokai&count_private=true&langs_count=10)
